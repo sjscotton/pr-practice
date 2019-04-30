@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+Magikarp was added to the pokedex
 
 ## Person B:
 
