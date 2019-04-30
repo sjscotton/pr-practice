@@ -8,7 +8,7 @@ Magikarp was added to the pokedex
 
 ## Person B:
 
-Person B should modify content here.
+Has a favorite food file.
 
 ## Person C:
 
